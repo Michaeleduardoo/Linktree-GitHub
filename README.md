@@ -16,4 +16,4 @@ Aqui estão algumas das tecnologias utilizadas neste projeto:
 
 ## Deploy do Site
 
-**Vem ver ➨** - [Link](https://linktreegithub.netlify.app/)
+**Vem ver ➨**  [Link](https://linktreegithub.netlify.app/)
